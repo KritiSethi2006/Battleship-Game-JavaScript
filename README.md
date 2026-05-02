@@ -30,4 +30,4 @@ This repository contains a simple, interactive Battleship game built with JavaSc
 4. Final stats show total guesses and accuracy percentage.
 
 ##
-🌐 LinkedIn Post:
+🌐 LinkedIn Post: https://www.linkedin.com/posts/kritisethi2006_javascriptprojects-battleshipgame-webdevelopment-activity-7436124962249179136-g2UU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWXPdABtxDAIjSA_8TFbf7ZOn_H4U7xeJk
